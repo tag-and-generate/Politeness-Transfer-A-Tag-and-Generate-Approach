@@ -1,11 +1,16 @@
 # Politeness-Transfer-A-Tag-and-Generate-Approach
 Repository accompanying the paper: [Politeness Transfer: A Tag and Generate Approach](https://arxiv.org/pdf/2004.14257.pdf)
 
-## Data
+## Politeness Dataset
 Please find the instructions to download the dataset at [tag-and-generate/politeness-dataset](https://github.com/tag-and-generate/politeness-dataset).
 
-## Code
-Please find the code for the Tag and Generate Approach at [tag-and-generate/code](https://github.com/tag-and-generate/code).
+## Tagger and generator
+- Please find the code for the Tag and Generate Approach at [tag-and-generate/tagger-generator](https://github.com/tag-and-generate/tagger-generator).
+
+- Dataset preparation: [tag-and-generate/tagger-generator/tag-and-generate-data-prep](https://github.com/tag-and-generate/tagger-generator/tree/master/tag-and-generate-data-prep)
+- Training, inference, evaluation: [tag-and-generate/tagger-generator/tag-and-generate-train](https://github.com/tag-and-generate/tagger-generator/tree/master/tag-and-generate-train)
+
+
 
 ## Output
 Please find the generated outputs of our model for all the tasks at [tag-and-generate/outputs](https://github.com/tag-and-generate/outputs).
