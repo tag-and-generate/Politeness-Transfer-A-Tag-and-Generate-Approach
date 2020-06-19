@@ -4,8 +4,6 @@ Repository accompanying the paper: [Politeness Transfer: A Tag and Generate Appr
 ## Data
 Please find the instructions to download the dataset at [tag-and-generate/politeness-dataset](https://github.com/tag-and-generate/politeness-dataset).
 
-Please find the instructions to preprocess the data at [tag-and-generate/code-pre-release](https://github.com/tag-and-generate/code-pre-release).
-
 ## Code
 Please find the code for the Tag and Generate Approach at [tag-and-generate/code](https://github.com/tag-and-generate/code).
 
