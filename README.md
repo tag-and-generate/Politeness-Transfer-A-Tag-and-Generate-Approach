@@ -21,7 +21,7 @@ If you use this data or code please cite the following:
 Madaan, A., Setlur, A., Parekh, T., Poczos, B., Neubig, G., Yang, Y., Salakhutdinov, R., Black, A. and Prabhumoye, S., 2020. "Politeness Transfer: A Tag And Generate Approach". In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
 
     @inproceedings{,
-      title={Topological Sort for Sentence Ordering},
+      title={Politeness Transfer: A Tag And Generate Approach},
       author={Madaan, Aman and Setlur, Amrith and Parekh, Tanmay and Poczos, Barnabas and Neubig, Graham and Yang, Yiming, and Salakhutdinov, Ruslan and Black, Alan W and Prabhumoye, Shrimai},
       booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
       publisher={Association for Computational Linguistics},
